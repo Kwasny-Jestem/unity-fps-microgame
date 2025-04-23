@@ -1,4 +1,4 @@
-# Unity FPS Microgame
+# Unity FPS Microgame  -  Level Design Classes
 
 [Unity](https://unity.com/) [FPS Microgame](https://learn.unity.com/project/fps-template) [Template](https://assetstore.unity.com/packages/templates/fps-microgame-156015).
 
