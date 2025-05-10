@@ -6,7 +6,7 @@ namespace Unity.FPS.Gameplay
     public class ObjectiveKillEnemies : Objective
     {
         [Tooltip("Chose whether you need to kill every enemies or only a minimum amount")]
-        public bool MustKillAllEnemies = true;
+        public bool MustKillAllEnemies = false;
 
         [Tooltip("If MustKillAllEnemies is false, this is the amount of enemy kills required")]
         public int KillsToCompleteObjective = 5;
